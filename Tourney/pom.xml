@@ -3,13 +3,13 @@
 
     <parent>
         <groupId>tc.oc</groupId>
-        <artifactId>ProjectAres</artifactId>
+        <artifactId>projectares</artifactId>
         <relativePath>../pom.xml</relativePath>
         <version>1.11-SNAPSHOT</version>
     </parent>
 
     <groupId>net.anxuiz</groupId>
-    <artifactId>Tourney</artifactId>
+    <artifactId>tourney</artifactId>
     <name>Tourney</name>
     <description>Tourney is a plugin designed to allow easy management of competitive PGM tournaments.</description>
 

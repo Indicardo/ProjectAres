@@ -3,13 +3,13 @@
 
     <parent>
         <groupId>tc.oc</groupId>
-        <artifactId>ProjectAres</artifactId>
+        <artifactId>projectares</artifactId>
         <relativePath>../pom.xml</relativePath>
         <version>1.11-SNAPSHOT</version>
     </parent>
 
     <!-- Parent Project Information -->
-    <artifactId>PGM</artifactId>
+    <artifactId>pgm</artifactId>
     <name>PGM</name>
     <description>PvP Game Manager (PGM) manages running and instancing multiple PvP maps for Minecraft multiplayer.</description>
 
